@@ -1,7 +1,11 @@
 from password import Password
-import random 
 
 def main():
+    """
+    main program driver
+    """
+
+
     message = "Press 1 to auto-genetate a strong password\n"
     message += "Press 2 to enter a password you will like to validate its strength\n"
 
